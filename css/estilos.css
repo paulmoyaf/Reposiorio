@@ -3,6 +3,7 @@ h1{
 }
 
 body{
+    font-weight: bold;
     background-color: brown;
     border-radius: 2%;
     width: 50%;

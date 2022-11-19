@@ -1,7 +1,0 @@
-git init // esto es en repositorio
-git add file
-git status -s
-git commit -m "Comentarios"
-git log --oneline // muestra las versiones
-git reset --hard BorrafileQueNoQuiere
-git add . //seguimiento a todos los archivos
